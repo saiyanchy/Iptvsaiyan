@@ -1992,3 +1992,61 @@ https://madanitv.assadikb.workers.dev/live.php?id=1345&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/sonic-hindi.png" group-title="FAVOURITE CHANNELS✅" http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",Sonic Hindi
 #EXTVLCOPT:http-user-agent="oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1"
 https://madanitv.assadikb.workers.dev/live.php?id=815&e=.m3u8
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",beIN ARABIC FHD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9wdWItZjZiOGU4NGNmYjZhNGY3MGI0ZmMyOGU1MWQ4MzRlMDAucjIuZGV2L0JNYXgxLTEvaW5kZXgubTN1OA
+#EXTINF:-1 group-title="FIFAWC 2026 GAME" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML http-referrer="https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1zY2VudGVyLm9ubGluZS8", like Gecko) Chrome/149.0.0.0 Safari/537.36"https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1zY2VudGVyLm9ubGluZS8" referrer="https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1zY2VudGVyLm9ubGluZS8", like Gecko) Chrome/149.0.0.0 Safari/537.36",SportzX Live
+#EXTVLCOPT:http-referrer=https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1zY2VudGVyLm9ubGluZS8
+#EXTVLCOPT:http-origin=https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1zY2VudGVyLm9ubGluZQ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9lZGdlc3RyZWFtMS5wcm8vaGxzL3NxaGRnaHphdmJ4dTc1Lm0zdTg_
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",IRIB 4K
+https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9uY2RuLnRlbGV3ZWJpb24uaXIvZmFyYXRhci9saXZlL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-logo="https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9TUGJUQzl0STgyY3BCU1M0TnN2NnBkLW12UWQxbG5KVTJvbVRxcy1zdjREdklkSFZSeHZaOU9ib0pUVjVHeTFlcldvNkg1NjlrWjc0WkJnNnY2c3o9dzYwMC1oMzAwLXBjMHhmZmZmZmYtcGQ" group-title="FIFAWC 2026 GAME" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML http-referrer="https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9pc2NyZWVuLmNvbS5iZC8", like Gecko) Chrome/149.0.0.0 Safari/537.36"https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9pc2NyZWVuLmNvbS5iZC8" referrer="https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9pc2NyZWVuLmNvbS5iZC8", like Gecko) Chrome/149.0.0.0 Safari/537.36",ISCREEN BD FHD
+#EXTVLCOPT:http-referrer=https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9pc2NyZWVuLmNvbS5iZC8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9sZDU4ZHF6OGFqajgucm9ja3N0cmVhbWVyLmNvbS9pc2Nfc3NhaS9pc2Nfc3NhaV9hZHMvbWFpbjIvaXNjX3NzYWlfMTA4MHAvY2h1bmtzLm0zdTg
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",TSports HD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS90c3BvcnRzL3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=2048&q=75" group-title="FIFAWC 2026 GAME",BTV BDIX HD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS9idHYvdHJhY2tzLXYxYTEvbW9uby5tM3U4
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",SOMOY TV HD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS9zb21veVR2L3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 group-title="FIFAWC 2026 GAME" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML http-referrer="https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1lLmNlbnRlci8", like Gecko) Chrome/149.0.0.0 Safari/537.36"https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1lLmNlbnRlci8" referrer="https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1lLmNlbnRlci8", like Gecko) Chrome/149.0.0.0 Safari/537.36",TELEMUNDO HD
+#EXTVLCOPT:http-referrer=https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1lLmNlbnRlci8
+#EXTVLCOPT:http-origin=https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9zdHJlYW1lLmNlbnRlcg
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9lZGdlc3RyZWFtMy5wcm8vaGxzL2IwaDVmTndES0gubTN1OD8
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",TSports BDIX
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS90c3BvcnRzL3ZpZGVvLm0zdTg
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",SomoyTV BDIX
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS9zb21veVR2L2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFAWC 2026 GAME",DAZN 5 HD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3pudHkuZHluZG5zLm9yZzo1MDEwL2hscy9lbGV2ZW41Lm0zdTg
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFAWC 2026 GAME",DAZN 4 HD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3pudHkuZHluZG5zLm9yZzo1MDEwL2hscy9lbGV2ZW40Lm0zdTg
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFAWC 2026 GAME",DAZN 2 HD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3pudHkuZHluZG5zLm9yZzo1MDEwL2hscy9lbGV2ZW4yLm0zdTg
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/Kvj2fsr4S8.png" group-title="FIFAWC 2026 GAME",DAZN 1 HD
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3pudHkuZHluZG5zLm9yZzo1MDEwL2hscy9lbGV2ZW4xLm0zdTg
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="FIFAWC 2026 GAME",Bein Sports  - 🇫🇷 France
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovLzE0NS4yMzkuNS4xNzcvNTU5L21wZWd0cw
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="FIFAWC 2026 GAME",Bein Sports  🇫🇷 France
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovLzE0NS4yMzkuNS4xNzc6ODAvNTU5L2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="FIFAWC 2026 GAME",beIN Sports Xtra
+https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9iZWluLWVzcC14dW1vLmFtYWdpLnR2L3BsYXlsaXN0UjcyMFAubTN1OA
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/kIiut6WBq0.jpg" group-title="FIFAWC 2026 GAME",Bein Sports 4
+https://go.skym3u.top/qup4.m3u?channel=aHR0cHM6Ly9iZWluLWVzcC14dW1vLmFtYWdpLnR2L3BsYXlsaXN0UjEwODBwLm0zdTg
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",FS1 05
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3dpY2tlZGlwdHYueHl6L1JhbmRhbGwxMjMvUmFuZGFsbDMyMS81MzM5MA
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",TSN1 CA 04
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3dpY2tlZGlwdHYueHl6L1JhbmRhbGwxMjMvUmFuZGFsbDMyMS81MzgwNQ
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",BBC One UK 04
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3dpY2tlZGlwdHYueHl6L1JhbmRhbGwxMjMvUmFuZGFsbDMyMS81Mzg0Mg
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",FIFAWC 2026 GAME 01
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3dpY2tlZGlwdHYueHl6L1JhbmRhbGwxMjMvUmFuZGFsbDMyMS8zNDAwMTg
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",FIFAWC 2026 GAME 02
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3dpY2tlZGlwdHYueHl6L1JhbmRhbGwxMjMvUmFuZGFsbDMyMS8zNDAwMTk
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",FIFAWC 2026 GAME 03
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3dpY2tlZGlwdHYueHl6L1JhbmRhbGwxMjMvUmFuZGFsbDMyMS8zNDAwMTc
+#EXTINF:-1 group-title="FIFAWC 2026 GAME",FIFAWC 2026 GAME 04
+https://go.skym3u.top/qup4.m3u?channel=aHR0cDovL3dpY2tlZGlwdHYueHl6L1JhbmRhbGwxMjMvUmFuZGFsbDMyMS8zNDAwMTY
